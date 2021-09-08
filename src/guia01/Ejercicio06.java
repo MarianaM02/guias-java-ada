@@ -8,6 +8,8 @@ public class Ejercicio06 {
         //¿Cómo sería el diagrama de flujo y el pseudocódigo que representen
         //el algoritmo para obtenerla?
 
+//Aca te agrego un comentario by Flor
+
         float cateto1, cateto2;
         double hipotenusa;
 
